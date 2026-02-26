@@ -4,12 +4,16 @@ __pycache__/
 .venv/
 venv/
 
+# Variables de entorno (contienen credenciales y rutas locales)
+.env
+
 # Data / Kaggle downloads (NO subir)
 *.xlsx
 *.csv
 all-football-players-stats-in-top-5-leagues-2324/
 all-football-players-stats-in-top-5-leagues-2425/
-data/
+data/*.xlsx
+data/*.csv
 
 # OS / editor
 .DS_Store

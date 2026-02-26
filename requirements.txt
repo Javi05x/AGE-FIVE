@@ -1,0 +1,9 @@
+pandas
+pymongo
+openpyxl
+python-dotenv
+matplotlib
+seaborn
+numpy
+scikit-learn
+jupyter
