@@ -1,9 +1,3 @@
-
-
-## 📝 Paste completo en formato README
-
-Aquí está **completamente convertido y optimizado para GitHub/GitLab**:
-
 ```markdown
 # 🔴 APUNTES CRÍTICOS PARA EL EXAMEN - SIN GUI
 
